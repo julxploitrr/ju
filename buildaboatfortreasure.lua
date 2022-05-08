@@ -136,3 +136,8 @@ Credit.LineHeight = 0.000
 Credit.Text = "Created by rayanfrfr#9999"
 Credit.TextColor3 = Color3.fromRGB(0, 0, 0)
 Credit.TextSize = 17.000
+
+local message = Instance.new("Message", workspace)
+        message.Text = "Loaded for Build A Boat For Teasure. Join .gg/M5XFTpjav3 if there is a issue."
+        wait(4.5)
+        message:Destroy()
